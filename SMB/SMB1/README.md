@@ -1,36 +1,25 @@
-# Mini-projekt 1
+<div align="center">
+<h1>Mini-project 1</h1>
+</div>
 
+<div align="center">
 
+[![projectReq](https://img.shields.io/badge/Requirements-in_Polish-purple)](https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/mini-projekt1.pdf)
+</div>
 
-Zadanie polega na stworzeniu aplikacji mającej na celu zarządzanie oraz zapisywanie 
-i odczytywanie listy zakupów przy wykorzystaniu androidowych metod przechowywania 
-danych (SharedPreferences / DataStore, SQLite / Room, opcjonalnie Content Provider).
+Application that aims to manage the shopping list using Android data storage methods (SharedPreferences, Room)
 
-## Wymagania:
+## Requirements
 
-- Wykorzystanie kilku Activity (mogą być różne typy jak np. ListActivity, PreferenceActivity) 
-oraz Intent do nawigacji pomiędzy widokami w aplikacji. Poniżej znajduje się minimalny 
-zestaw Activities:
+- Create several Activities (they can be different types such as ListActivity, PreferenceActivity) and Intent to navigate between views in the application. Below is the minimum set of Activities:
 
-    - MainActivity: główne okno do nawigacji, znajdują się tu guziki do nawigacji do 
-kolejnych komponentów graficznych.
-    - ProductListActivity: zestawienie reprezentujące listę zakupów. Każdy element 
-w liście powinien posiadać następujące informacje: nazwa produktu, cena, 
-ilość, oznaczenie czy zostało już zakupione. Dodatkowo powinny znaleźć się 
-elementy GUI (w dowolnym miejscu) odpowiedzialne za dodawanie nowych
-produktów do listy, modyfikację oraz usuwanie istniejących. Rekomendowane 
-zastosowanie RecyclerView.
+    - MainActivity: : the main window for navigation, there are buttons here to navigate to the next graphical components.
+    - ProductListActivity: a summary representing the shopping list. Each element in the list should have the following information: product name, price, quantity, indication whether it has already been purchased. Additionally, there should be GUI elements (in any place) responsible for adding new products to the list, modifying and deleting existing ones. RecyclerView recommended.
+    - OptionsActivity: a screen representing options related to the application. (**OptionActivity and MainActivity was merged to one Activity**)
 
-    - OptionsActivity: ekran reprezentujący opcje związane z aplikacją. Co najmniej 
-2 (np. rozmiar i kolor dowolnych elementów w apce).
-
-- Należy zapisać wartości opcji za pomocą SharedPreferences lub DataStore. Przy ponownym 
-odpaleniu apki odczytujemy poprzednio zapisane wartości. [3 pkt]
-- Należy także zapisać listę produktów za pomocą bazy SQLite (Room). Stworzyć co 
-najmniej jedną tabelę przechowującą wszystkie wartości wypisane w liście (nazwa produktu, 
-cena, ilość i oznaczenie czy kupione). [7 pkt]
-- (Opcjonalne, na 1 dodatkowy punkt) Utworzyć Content Providera umożliwiającego dostęp do 
-znajdujących się w bazie danych informacji.
+- Need to save the option values using SharedPreferences. When you restart the app, we read the previously saved values.
+- Need to save the product list using the SQLite (Room) database. Create at least one table storing all the values listed in the list (product name, price, quantity and indication whether purchased).
+- Create a Content Provider that allows access to information stored in the database.
 
 ## Screenshots
 
