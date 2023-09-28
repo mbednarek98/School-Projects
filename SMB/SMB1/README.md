@@ -35,4 +35,16 @@ znajdujących się w bazie danych informacji.
 ## Screenshots
 
 <div align = "center">
+<picture>
+    <source height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/titlescreen.png">
+    <img alt="titlescreen" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/titlescreen.png">
+</picture>
+<picture>
+    <source height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/list.png">
+    <img alt="shoplist" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/list.png">
+</picture>
+<picture>
+    <source height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/additem.png">
+    <img alt="additem" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/additem.png">
+</picture>
 </div>
