@@ -13,7 +13,7 @@ Application that aims to manage the shopping list using Android data storage met
 
 - Create several Activities (they can be different types such as ListActivity, PreferenceActivity) and Intent to navigate between views in the application. Below is the minimum set of Activities:
 
-    - MainActivity: : the main window for navigation, there are buttons here to navigate to the next graphical components.
+    - MainActivity: the main window for navigation, there are buttons here to navigate to the next graphical components.
     - ProductListActivity: a summary representing the shopping list. Each element in the list should have the following information: product name, price, quantity, indication whether it has already been purchased. Additionally, there should be GUI elements (in any place) responsible for adding new products to the list, modifying and deleting existing ones. RecyclerView recommended.
     - OptionsActivity: a screen representing options related to the application. (**OptionActivity and MainActivity was merged to one Activity**)
 
