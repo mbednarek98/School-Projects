@@ -26,8 +26,8 @@ Modified application from **[mini-project 1](https://github.com/mbednarek98/Scho
     <img alt="loginscreen" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/loginscreen.png">
 </picture>
 <picture>
-    <source height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/newmainscreen.png">
-    <img alt="mainscreen" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1/assets/newmainscreen.png">
+    <source height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB3/assets/newmainscreen.png">
+    <img alt="mainscreen" height="300px" srcset="https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB3/assets/newmainscreen.png">
 </picture>
 
 </div>
