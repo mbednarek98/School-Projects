@@ -8,16 +8,12 @@
 
 </div>
 
-Modified application from **[mini-project 3](https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1)** by adding the possibility of adding favorite stores along with their location (determined by the device). Additionally, it should be possible to display all the stores on the map along with their markers. In case of entering or leaving a store (e.g. 100 meters around the coordinates), the application should inform about this fact by creating notifications (greeting the customer + promotion of the day of a given store and farewell).
-
-
-<div align="center">
-    
 $$ 
-{\color{red}Project \space was \space lost \space due \space to \space wiping \space all \space data \space on \space my \space computer} 
+{\textsf{\color{red}Project  was lost due  to wiping  all  data on  my computer}}
 $$
     
-</div>
+
+Modified application from **[mini-project 3](https://github.com/mbednarek98/School-Projects/blob/master/SMB/SMB1)** by adding the possibility of adding favorite stores along with their location (determined by the device). Additionally, it should be possible to display all the stores on the map along with their markers. In case of entering or leaving a store (e.g. 100 meters around the coordinates), the application should inform about this fact by creating notifications (greeting the customer + promotion of the day of a given store and farewell).
 
 ## Requirements
 
