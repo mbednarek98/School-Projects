@@ -1,7 +1,19 @@
-# Projekt 7
+<div align="center">
+<h1>Mini-project 7</h1>
+</div>
 
-1. Dla notowañ gie³dowych kryptowaluty zaproponuj i zrealizuj podzia³ tych danych na dane treningowe i dane testowe,
-2. Zaproponuj liniowy model autoregresyjny (model AR) bior¹cy pod uwagê kilka wczeœniejszych notowañ (nie wiêcej ni¿ 50). Okreœl parametry modelu stosuj¹c metodê najmniejszych kwadratów. Zweryfikuj poprawnoœæ modelu,
-3. Zaproponuj sieæ neuronow¹ rekurencyjn¹ do predykcji notowañ. Wytrenuj sieæ (zastosuj znane ci techniki trenowania sieci jak porzucanie, skalowanie etc.). Zweryfikuj poprawnoœæ modelu, (ZROBIONE BEZ UZYCIA WARSTWY REKURENCYJNEJ LSTM)
-4. Do predykcji notowañ u¿yj dodatkowych dostêpnych danych, (NIE ZROBIONE)
-5. Porównaj modele AR i rekurencyjne sieci neuronowe.
+<div align="center">
+
+[![readme](https://img.shields.io/badge/README-in_Polish-red)](https://github.com/mbednarek98/School-Projects/blob/master/MIW/MIW7/README.pl-PL.md)
+
+</div>
+
+Modified Python code from mini-project 6 for an autoencoder using CNNs. The code uses MNIST and shows the input, encoded, and output images.
+
+## Requirements
+
+1. Expand the convolutional network from project 6 to an autoencoder, by removing the classification layers and adding symmetric Conv2DTranspose layers. Adapt the network to use mnist data (Handwritten digits); 
+
+2. Train the model using only input data, the model output is equal to its input; 
+
+3. Present on test data how the input data, data returned by the encoder and output data look like.

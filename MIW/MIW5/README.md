@@ -1,10 +1,21 @@
-# Projekt 5 WIP
+<div align="center">
+<h1>Mini-project 5</h1>
+</div>
 
-1. Wczytaj dane z pliku daneXX.txt. Zaproponuj i zrealizuj podział tych danych na dane treningowe i dane testowe,
-2. Zaproponuj optymalną sieć neuronową aproksymującą wczytane dane. Użyj nieliniowej funkcji aktywacji w warstwie ukrytej (np. tanh lub sigmoidalna). Stosując propagację wsteczną błędu wytrenuj sieć metodą wsadową.
-3. Oceń działanie sieci pod kątem dopasowania (zbyt małe, optymalne, zbyt duże dopasowanie).
-4. Zmień sposób podawania sieci z wsadowej no on line. Wytrenuj sieć. Oceń działanie sieci.
-5. Zaproponuj sieć z funkcją aktywacji RELU. Stosując propagację wsteczną błędu wytrenuj sieć metodą wsadową.
+<div align="center">
 
-Gdzie XX jest numerem zestawu. W każdej linii pliku pierwsza liczba określa wejście a druga wartość wyjścia.
-Proszę nie używać dostępnych bibliotek sieci neuronowych. Do implementacji sieci proszę użyć macierzy stosując bibliotekę numpy.
+[![readme](https://img.shields.io/badge/README-in_Polish-red)](https://github.com/mbednarek98/School-Projects/blob/master/MIW/MIW5/README.pl-PL.md)
+
+</div>
+
+Python code for image classification using CNNs. The code uses CIFAR10, trains a classifier for two classes, and compares different network architectures.
+
+## Requirements
+
+1. For the data “CIFAR10 small image classification” from the Keras library, propose and implement a division of these data into training and test data; 
+
+2. Based on a convolutional network, according to the instructor’s guidelines, propose a classifier that classifies two out of ten classes;
+
+3. Propose a classifier with one, two, and three convolutional layers; 
+
+4. Compare the results from the previous point and propose an optimal classifier for the given problem.

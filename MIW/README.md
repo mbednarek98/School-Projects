@@ -17,11 +17,10 @@ This repo contains projects on various topics of machine intelligence. The proje
 | [Project 2](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW2) | Classification tasks - perceptron, logistic regression |
 | [Project 3](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW3) | Trees and forests |
 | [Project 4](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW4) | Linear and Quadratic Regression |
-| [Project 5](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW5) | Neural Network |
-| [Project 6](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW6) | Convolutional Neural Network |
-| [Project 7](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW7) | Recurrent Neural Network |
-| [Project 8](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW8) | AutoEncoder |
-| [Project 9](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW9) | Prolog   |
+| [Project 5](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW5) | Convolutional Neural Network |
+| [Project 6](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW6) | Recurrent Neural Network |
+| [Project 7](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW7) | AutoEncoder |
+| [Project 8](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW8) | Prolog   |
 
 
 </div>
