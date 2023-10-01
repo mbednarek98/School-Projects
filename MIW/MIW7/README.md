@@ -12,7 +12,7 @@ Modified Python code from mini-project 5 for an autoencoder using CNNs. The code
 
 ## Requirements
 
-1. Expand the convolutional network from project 5 to an autoencoder, by removing the classification layers and adding symmetric Conv2DTranspose layers. Adapt the network to use mnist data (Handwritten digits); 
+1. Expand the convolutional network from mini-project 5 to an autoencoder, by removing the classification layers and adding symmetric Conv2DTranspose layers. Adapt the network to use mnist data (Handwritten digits); 
 
 2. Train the model using only input data, the model output is equal to its input; 
 
