@@ -12,18 +12,22 @@ This repo contains projects related to various topics and technologies that I le
 </div>
 
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects mostly demonstrate the fundamental concepts and features of Android development, such as activities, intents, layouts, menus, dialogs, permissions, and more.
-
+<div align="center">
+  
 | Project No. | Description |
 | :---: | --- |
 | [Project 1](https://github.com/mbednarek98/School-Projects/tree/master/PRM/PRM1) | Product list app to manage your expenses. |
 | [Project 2](https://github.com/mbednarek98/School-Projects/tree/master/PRM/PRM2) | Travel app to document your travels around the world. |
 
+</div>
 <div align="center">
 <h3> Mobile and Wireless Systems </h3>
 </div>
 
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects demonstrate how to create mobile applications that use cloud-based solutions and external support, such as Google App Engine and Firebase.
 
+<div align="center">
+  
 | Project No. | Description |
 | :---: | --- |
 | [Project 1](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB1) | Shopping list app using various data storage methods and activities. |
@@ -31,7 +35,7 @@ Contains projects related to Android programming using Kotlin language and Andro
 | [Project 3](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB3) |Shopping list app with Firebase authentication and remote database. |
 | [Project 4](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB4) |${\textsf{\color{red}(Datawiped)}}$ Shopping list app with geolocation features and favorite stores.  |
 | [Project 5](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB5) | Widget that can open web pages, display images and play sounds. |
-
+</div>
 
 
 <div align="center">
@@ -42,6 +46,8 @@ Contains projects related to Android programming using Kotlin language and Andro
 </div>
 
 Contains projects on various topics of machine intelligence. The projects use Python to implement different models and algorithms, such as Markov chains, perceptrons, logistic regression, trees, forests, neural networks, convolutional neural networks, recurrent neural networks, and autoencoders. The projects also involve data analysis and visualization.
+<div align="center">
+  
 
 | Project No. | Description |
 | :---: | --- |
@@ -53,4 +59,4 @@ Contains projects on various topics of machine intelligence. The projects use Py
 | [Project 6](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW6) | Recurrent Neural Network |
 | [Project 7](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW7) | AutoEncoder |
 | [Project 8](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW8) | Prolog   |
-
+</div>
