@@ -4,15 +4,25 @@
 
 This repo contains projects related to various topics and technologies that I learned at PJATK. The projects are smaller in scale and scope, so they are grouped together in this repo instead of having their own separate repos. The topics and technologies include Android development, data analysis, machine learning and more.
 
+<br />
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <h2> Android Development Projects </h2>
-
 <h3> Mobile Programming </h3>
 </div>
 
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects mostly demonstrate the fundamental concepts and features of Android development, such as activities, intents, layouts, menus, dialogs, permissions, and more.
 <div align="center">
+<br />
   
 | Project No. | Description |
 | :---: | --- |
@@ -20,6 +30,7 @@ Contains projects related to Android programming using Kotlin language and Andro
 | [Project 2](https://github.com/mbednarek98/School-Projects/tree/master/PRM/PRM2) | Travel app to document your travels around the world. |
 
 </div>
+<br />
 <div align="center">
 <h3> Mobile and Wireless Systems </h3>
 </div>
@@ -27,6 +38,7 @@ Contains projects related to Android programming using Kotlin language and Andro
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects demonstrate how to create mobile applications that use cloud-based solutions and external support, such as Google App Engine and Firebase.
 
 <div align="center">
+<br />
   
 | Project No. | Description |
 | :---: | --- |
@@ -36,8 +48,8 @@ Contains projects related to Android programming using Kotlin language and Andro
 | [Project 4](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB4) |${\textsf{\color{red}(Datawiped)}}$ Shopping list app with geolocation features and favorite stores.  |
 | [Project 5](https://github.com/mbednarek98/School-Projects/tree/master/SMB/SMB5) | Widget that can open web pages, display images and play sounds. |
 </div>
-
-
+<br />
+<br />
 <div align="center">
 
 <h2> Machine Learning and Data Analysis Projects </h2>
@@ -47,7 +59,7 @@ Contains projects related to Android programming using Kotlin language and Andro
 
 Contains projects on various topics of machine intelligence. The projects use Python to implement different models and algorithms, such as Markov chains, perceptrons, logistic regression, trees, forests, neural networks, convolutional neural networks, recurrent neural networks, and autoencoders. The projects also involve data analysis and visualization.
 <div align="center">
-  
+<br />
 
 | Project No. | Description |
 | :---: | --- |
