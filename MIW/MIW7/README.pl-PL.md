@@ -8,11 +8,11 @@
 
 </div>
 
-Zmodyfikowany kod Pythona z mini-projektu 6 dla autoenkodera wykorzystującego CNN. Kod wykorzystuje MNIST i pokazuje obrazy wejściowe, zakodowane i wyjściowe.
+Zmodyfikowany kod Pythona z mini-projektu 5 dla autoenkodera wykorzystującego CNN. Kod wykorzystuje MNIST i pokazuje obrazy wejściowe, zakodowane i wyjściowe.
 
 ## Wymagania
 
-1. Rozbuduj sieć konwolucyjną z projektu 6 do autokodera, poprzez usunięcie warstw klasyfikujących i dodanie symetrycznych warstw Conv2DTranspose. Przystosuj sieć do wykorzystania danych mnist (Ręcznie pisane cyfry);
+1. Rozbuduj sieć konwolucyjną z mini-projektu 5 do autokodera, poprzez usunięcie warstw klasyfikujących i dodanie symetrycznych warstw Conv2DTranspose. Przystosuj sieć do wykorzystania danych mnist (Ręcznie pisane cyfry);
 
 2. Wytrenuj model używając jedynie danych wejściowych, wyjście modelu równa się jego wejściu;
 
