@@ -17,8 +17,9 @@ This repo contains projects related to various topics and technologies that I le
 <div align="center">
 
 <h2> Android Development Projects </h2>
-<h3> Mobile Programming </h3>
 </div>
+<h3> Mobile Programming </h3>
+
 
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects mostly demonstrate the fundamental concepts and features of Android development, such as activities, intents, layouts, menus, dialogs, permissions, and more.
 <div align="center">
@@ -31,9 +32,7 @@ Contains projects related to Android programming using Kotlin language and Andro
 
 </div>
 <br />
-<div align="center">
 <h3> Mobile and Wireless Systems </h3>
-</div>
 
 Contains projects related to Android programming using Kotlin language and Android Studio IDE. The projects demonstrate how to create mobile applications that use cloud-based solutions and external support, such as Google App Engine and Firebase.
 
@@ -53,9 +52,10 @@ Contains projects related to Android programming using Kotlin language and Andro
 <div align="center">
 
 <h2> Machine Learning and Data Analysis Projects </h2>
+</div>
 
 <h3> Methods of Knowledge Engineering </h3>
-</div>
+
 
 Contains projects on various topics of machine intelligence. The projects use Python to implement different models and algorithms, such as Markov chains, perceptrons, logistic regression, trees, forests, neural networks, convolutional neural networks, recurrent neural networks, and autoencoders. The projects also involve data analysis and visualization.
 <div align="center">
