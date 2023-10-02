@@ -72,7 +72,7 @@ Contains projects on various topics of machine intelligence. The projects use Py
 | [Project 7](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW7) | AutoEncoder |
 | [Project 8](https://github.com/mbednarek98/School-Projects/tree/master/MIW/MIW8) | Prolog   |
 </div>
-
+<br />
 <h3> Programming for Data Analysis </h3>
 
 
